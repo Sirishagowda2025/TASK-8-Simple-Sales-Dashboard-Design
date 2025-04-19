@@ -13,6 +13,23 @@ To analyze and visualize sales and profit performance across different regions, 
 Mock dataset (`Superstore_Cleaned.xlsx`) containing 200+ records of sales transactions.
 
 ---
+## 🛠️ Tools Used
+
+- **Power BI Desktop**  
+- **Microsoft Excel (Data Preprocessing)**  
+- **DAX (Basic Measures)**  
+- **GitHub (Version Control)**
+
+--
+
+## 📂 Repository Structure
+
+ ├── Super Sales Dashboard summary.pptx   # A complete project walkthrough (objectives, charts, insights)
+ ├── Superstore_Cleaned.csv               #Cleaned dataset used for analysis
+ ├── Sales Dashboard.pbix                 #Power BI dashboard project file
+ ├── README.md                            #Documentation
+
+ --
 
 ## 📌 Dashboard Highlights
 
@@ -32,6 +49,7 @@ Mock dataset (`Superstore_Cleaned.xlsx`) containing 200+ records of sales transa
 - 🛒 **Technology** leads in total sales value.
 - 🌎 **South Region** dominates sales performance.
 - ⏳ Sales trend shows a peak in **August**, dipping toward **January**.
+- - 🧾 **Office Supplies** have the lowest profit margins and require optimization.
 
 ---
 
@@ -54,21 +72,22 @@ Mock dataset (`Superstore_Cleaned.xlsx`) containing 200+ records of sales transa
 
 ---
 
-## 🛠️ Tools Used
+## 📝 Summary
 
-- **Power BI Desktop**  
-- **Microsoft Excel (Data Preprocessing)**  
-- **DAX (Basic Measures)**  
-- **GitHub (Version Control)**
+This project is a real-world simulation of how data analytics adds value to business decision-making. By transforming transactional sales data into visual insights, I demonstrated how a data analyst can uncover hidden trends, recommend strategies, and support data-driven business decisions.
 
---
+## 🤝 Let’s Connect
 
-## 📂 Repository Structure
+✉️ Email: sirishadsirishad6@gmail.com
+💼 LinkedIn:https://www.linkedin.com/in/sirisha-d-064b69278/   
 
- ├── Super Sales Dashboard summary.pptx   # A complete project walkthrough (objectives, charts, insights)
- ├── Superstore_Cleaned.csv               #Cleaned dataset used for analysis
- ├── Sales Dashboard.pbix                 #Power BI dashboard project file
- ├── README.md                            #Documentation
+
+---
+
+
+
+
+
 
  
 
