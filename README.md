@@ -49,7 +49,7 @@ Mock dataset (`Superstore_Cleaned.xlsx`) containing 200+ records of sales transa
 - 🛒 **Technology** leads in total sales value.
 - 🌎 **South Region** dominates sales performance.
 - ⏳ Sales trend shows a peak in **August**, dipping toward **January**.
-- - 🧾 **Office Supplies** have the lowest profit margins and require optimization.
+- 🧾 **Office Supplies** have the lowest profit margins and require optimization.
 
 ---
 
