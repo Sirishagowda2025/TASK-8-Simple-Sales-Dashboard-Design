@@ -1,0 +1,201 @@
+Order Date,Region,Category,Sales, Profit ,Month
+13-Apr-23,West,Technology,373.59, $236.84 ,April
+15-Dec-23,Central,Furniture,297.66, $207.57 ,December
+28-Sep-23,East,Office Supplies,521.24, $(73.51),September
+17-Apr-23,East,Technology,708.25, $(81.66),April
+13-Mar-23,East,Technology,380.92, $148.32 ,March
+8-Jul-23,South,Technology,939.82, $38.97 ,July
+21-Jan-23,East,Technology,87.23, $(16.35),January
+13-Apr-23,Central,Furniture,447.05, $131.86 ,April
+2-May-23,East,Technology,969.2, $36.63 ,May
+3-Aug-23,West,Office Supplies,570.57, $114.91 ,August
+27-Nov-23,West,Office Supplies,452.3, $84.05 ,November
+29-Mar-23,South,Technology,590.09, $133.91 ,March
+10-Apr-23,West,Office Supplies,597.13, $60.12 ,April
+26-Dec-23,Central,Technology,745.07, $179.07 ,December
+1-Jun-23,East,Technology,171.31, $(27.97),June
+11-May-23,South,Office Supplies,287.52, $178.60 ,May
+30-May-23,East,Technology,601.52, $64.66 ,May
+5-Nov-23,East,Office Supplies,873.76, $249.73 ,November
+15-Sep-23,Central,Furniture,583.77, $106.09 ,September
+10-Dec-23,West,Technology,276.67, $289.24 ,December
+21-Oct-23,West,Furniture,695.85, $140.77 ,October
+11-Jul-23,East,Office Supplies,752.91, $(10.46),July
+4-Oct-23,South,Furniture,276.32, $228.72 ,October
+10-Jun-23,West,Furniture,408.84, $38.03 ,June
+10-Nov-23,South,Office Supplies,557.61, $39.05 ,November
+22-Jan-23,West,Furniture,521.73, $(87.28),January
+10-Sep-23,South,Furniture,420.14, $119.49 ,September
+24-Aug-23,Central,Office Supplies,332.75, $113.77 ,August
+11-Dec-23,South,Furniture,144.99, $42.40 ,December
+18-Feb-23,Central,Office Supplies,100.81, $257.69 ,February
+28-Feb-23,Central,Furniture,960.61, $(48.50),February
+19-Jun-23,South,Office Supplies,854.79, $32.04 ,June
+7-Jul-23,Central,Office Supplies,387.16, $28.63 ,July
+28-Sep-23,East,Furniture,958.96, $(63.08),September
+9-Jul-23,Central,Furniture,692.93, $92.46 ,July
+24-Jun-23,West,Furniture,508.39, $175.11 ,June
+20-Feb-23,South,Technology,518.37, $104.66 ,February
+30-Dec-23,East,Technology,129.12, $(37.21),December
+24-Feb-23,South,Technology,137.12, $50.91 ,February
+1-Sep-23,West,Office Supplies,622.32, $(98.96),September
+16-Nov-23,West,Furniture,576.02, $247.32 ,November
+11-May-23,West,Office Supplies,252.09, $(66.19),May
+3-Nov-23,Central,Technology,948.88, $138.91 ,November
+15-May-23,Central,Furniture,792.23, $294.50 ,May
+21-Jan-23,South,Office Supplies,157.79, $114.64 ,January
+25-Nov-23,South,Furniture,934.38, $269.62 ,November
+16-Jun-23,East,Office Supplies,975.54, $(5.55),June
+1-Oct-23,East,Furniture,996.13, $203.98 ,October
+30-Mar-23,South,Technology,103.08, $112.51 ,March
+12-Nov-23,Central,Technology,750.18, $188.21 ,November
+14-Jan-23,West,Furniture,568.62, $(75.06),January
+30-Aug-23,South,Office Supplies,720.54, $(40.90),August
+22-Sep-23,East,Technology,970.22, $(46.75),September
+12-Dec-23,Central,Technology,703.63, $174.87 ,December
+22-Feb-23,South,Technology,845.12, $237.78 ,February
+6-Dec-23,South,Furniture,873.53, $199.85 ,December
+2-Apr-23,Central,Furniture,846.56, $(87.81),April
+21-Sep-23,South,Office Supplies,454.79, $246.89 ,September
+4-Feb-23,Central,Office Supplies,261.45, $41.66 ,February
+25-Jul-23,West,Office Supplies,426.82, $58.87 ,July
+22-Mar-23,Central,Furniture,897.3, $(58.05),March
+19-Feb-23,Central,Furniture,189.27, $194.96 ,February
+26-Dec-23,Central,Office Supplies,537.66, $(27.09),December
+2-Jan-23,South,Office Supplies,271.57, $125.59 ,January
+23-Feb-23,South,Furniture,602.24, $236.28 ,February
+16-Apr-23,Central,Office Supplies,869.98, $(64.32),April
+17-Sep-23,South,Technology,886.34, $114.13 ,September
+6-Nov-23,East,Furniture,274.85, $(6.71),November
+10-Jul-23,East,Office Supplies,912.31, $37.17 ,July
+6-Aug-23,South,Furniture,612.29, $89.59 ,August
+13-Feb-23,South,Technology,382.71, $42.04 ,February
+11-Jun-23,Central,Furniture,722.77, $159.53 ,June
+21-Jul-23,West,Furniture,507.58, $91.83 ,July
+27-Sep-23,South,Furniture,409.09, $133.68 ,September
+17-Dec-23,East,Furniture,719.83, $194.73 ,December
+31-Oct-23,Central,Technology,286.29, $123.10 ,October
+28-Sep-23,South,Furniture,363.74, $134.61 ,September
+3-Aug-23,East,Furniture,462.73, $125.78 ,August
+9-Sep-23,East,Office Supplies,291, $51.51 ,September
+9-Jul-23,West,Furniture,434.94, $34.98 ,July
+23-Oct-23,Central,Office Supplies,592.9, $259.86 ,October
+1-Aug-23,Central,Technology,753.93, $143.02 ,August
+27-Jul-23,West,Technology,778.84, $(2.26),July
+25-Aug-23,West,Technology,831.65, $99.30 ,August
+4-Dec-23,Central,Technology,757, $32.14 ,December
+22-Feb-23,Central,Office Supplies,696.99, $273.48 ,February
+7-Oct-23,South,Furniture,275.63, $(96.99),October
+5-Aug-23,South,Technology,430.21, $(9.87),August
+9-Sep-23,West,Furniture,503.83, $46.14 ,September
+7-Jul-23,South,Office Supplies,128.75, $95.12 ,July
+10-Feb-23,East,Office Supplies,551.95, $240.33 ,February
+6-Jun-23,South,Office Supplies,464.52, $(64.84),June
+15-Jan-23,South,Technology,812, $222.35 ,January
+28-Oct-23,East,Furniture,979.01, $(77.74),October
+6-Mar-23,West,Furniture,578.2, $236.93 ,March
+11-Dec-23,East,Furniture,356.55, $(79.35),December
+23-Nov-23,South,Office Supplies,91.23, $(92.70),November
+9-Jan-23,West,Technology,928.41, $178.78 ,January
+10-Dec-23,South,Office Supplies,923.16, $298.90 ,December
+9-May-23,East,Office Supplies,290.34, $258.64 ,May
+16-May-23,East,Furniture,710.64, $130.40 ,May
+4-Mar-23,South,Office Supplies,121.66, $266.96 ,March
+19-May-23,Central,Furniture,207.9, $(97.88),May
+22-Mar-23,Central,Technology,255.97, $290.03 ,March
+12-Jun-23,East,Furniture,329.77, $96.30 ,June
+16-Oct-23,East,Technology,996.04, $189.16 ,October
+18-Sep-23,Central,Furniture,712.08, $228.34 ,September
+19-Aug-23,Central,Office Supplies,414.99, $187.38 ,August
+10-Feb-23,South,Office Supplies,750.25, $114.01 ,February
+28-Jan-23,South,Technology,919.49, $90.65 ,January
+15-May-23,Central,Technology,960.77, $235.43 ,May
+20-Jul-23,South,Technology,104.97, $(17.97),July
+24-Nov-23,South,Furniture,424.8, $287.20 ,November
+25-Sep-23,West,Furniture,151.42, $184.38 ,September
+2-Feb-23,South,Technology,368.88, $(20.20),February
+17-Feb-23,East,Office Supplies,211.2, $194.50 ,February
+3-Mar-23,South,Furniture,664.51, $111.94 ,March
+4-Aug-23,South,Furniture,418.85, $182.89 ,August
+20-Oct-23,Central,Furniture,267.93, $207.11 ,October
+9-Apr-23,East,Technology,302.64, $(65.08),April
+21-Jun-23,South,Technology,392.33, $102.44 ,June
+26-Dec-23,South,Technology,296.95, $272.81 ,December
+2-Aug-23,West,Technology,480.58, $28.26 ,August
+4-Feb-23,South,Technology,80.7, $137.55 ,February
+15-Aug-23,South,Office Supplies,315.78, $47.69 ,August
+11-Apr-23,West,Office Supplies,440.65, $81.71 ,April
+11-May-23,Central,Technology,622.64, $119.44 ,May
+14-Sep-23,South,Furniture,307.41, $119.57 ,September
+5-Jan-23,West,Technology,176.53, $(19.31),January
+6-Aug-23,East,Office Supplies,122.39, $173.83 ,August
+12-Sep-23,Central,Office Supplies,943.51, $(64.85),September
+25-Dec-23,East,Furniture,445.81, $(44.47),December
+10-Oct-23,East,Office Supplies,602.1, $(98.92),October
+26-Jul-23,West,Technology,923.22, $(53.32),July
+15-Jan-23,South,Furniture,128.61, $89.27 ,January
+12-Dec-23,West,Technology,882.83, $142.44 ,December
+11-Feb-23,West,Technology,574.01, $217.72 ,February
+28-Jun-23,West,Furniture,206.59, $(57.32),June
+4-Mar-23,West,Technology,440.69, $240.29 ,March
+18-Dec-23,Central,Office Supplies,788.72, $198.39 ,December
+19-Aug-23,South,Technology,506.35, $63.41 ,August
+29-Aug-23,East,Furniture,986.02, $273.18 ,August
+21-Feb-23,East,Furniture,407.9, $296.37 ,February
+6-Apr-23,South,Furniture,762.1, $(18.00),April
+10-Aug-23,East,Technology,423.34, $51.69 ,August
+19-Aug-23,South,Furniture,837.71, $270.58 ,August
+25-Aug-23,East,Furniture,590.63, $188.64 ,August
+23-May-23,West,Technology,110.34, $(80.76),May
+20-Jun-23,East,Office Supplies,84.98, $212.61 ,June
+29-Jan-23,South,Technology,177.16, $231.18 ,January
+5-Feb-23,South,Furniture,62.99, $200.20 ,February
+13-Jan-23,South,Furniture,121.59, $219.81 ,January
+9-Jun-23,South,Technology,707.13, $230.05 ,June
+23-Nov-23,South,Office Supplies,557.63, $(25.44),November
+6-Jul-23,Central,Furniture,762.42, $(5.72),July
+31-Aug-23,Central,Furniture,917.51, $153.50 ,August
+27-Mar-23,East,Furniture,605.89, $263.15 ,March
+11-Oct-23,South,Technology,739.81, $26.48 ,October
+7-Mar-23,East,Furniture,769.23, $135.32 ,March
+19-Jun-23,South,Office Supplies,408.96, $173.19 ,June
+14-Feb-23,South,Furniture,279.03, $80.78 ,February
+3-Mar-23,Central,Furniture,244.79, $185.51 ,March
+14-May-23,Central,Office Supplies,288.87, $259.87 ,May
+11-Oct-23,West,Furniture,311, $149.64 ,October
+28-Jan-23,Central,Technology,246.87, $115.91 ,January
+18-Apr-23,West,Technology,884.31, $75.50 ,April
+13-Feb-23,West,Technology,769.15, $130.99 ,February
+6-Dec-23,West,Office Supplies,94.55, $42.14 ,December
+13-Oct-23,West,Furniture,305.24, $56.59 ,October
+27-Nov-23,West,Technology,71.08, $112.74 ,November
+8-May-23,East,Office Supplies,523.26, $(73.35),May
+14-Dec-23,Central,Furniture,502.4, $(8.39),December
+19-Aug-23,West,Office Supplies,839.8, $117.14 ,August
+9-Jul-23,South,Technology,342.39, $72.61 ,July
+13-Aug-23,Central,Technology,825.57, $33.13 ,August
+10-Oct-23,Central,Technology,969.58, $192.22 ,October
+1-May-23,West,Office Supplies,133.99, $177.49 ,May
+26-Apr-23,East,Office Supplies,802.23, $(33.31),April
+21-Aug-23,West,Technology,610.46, $251.45 ,August
+16-Sep-23,East,Office Supplies,506.04, $98.17 ,September
+25-Dec-23,South,Technology,449.51, $196.58 ,December
+17-Jul-23,Central,Technology,795.43, $129.26 ,July
+17-May-23,South,Furniture,657.39, $299.08 ,May
+14-Nov-23,East,Office Supplies,814.79, $200.96 ,November
+14-Jun-23,East,Technology,907.99, $182.79 ,June
+13-Aug-23,South,Technology,636.4, $211.43 ,August
+3-Nov-23,East,Office Supplies,981.44, $(42.75),November
+22-Aug-23,South,Furniture,627.68, $(18.18),August
+21-Jun-23,Central,Furniture,654.81, $185.63 ,June
+1-Jun-23,South,Technology,577.07, $97.59 ,June
+11-Nov-23,Central,Office Supplies,136.45, $201.85 ,November
+9-Jun-23,South,Furniture,740.08, $(58.83),June
+6-Apr-23,East,Office Supplies,570.07, $114.59 ,April
+21-Aug-23,South,Office Supplies,478.36, $51.53 ,August
+29-Jun-23,East,Technology,914.95, $82.80 ,June
+23-Apr-23,South,Furniture,333.06, $141.58 ,April
+14-Nov-23,South,Technology,547.42, $100.92 ,November
+21-Feb-23,West,Furniture,712.76, $115.94 ,February
+25-Sep-23,East,Furniture,806.65, $94.54 ,September
+22-Oct-23,West,Furniture,486.38, $63.58 ,October
